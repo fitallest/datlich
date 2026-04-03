@@ -1,0 +1,5 @@
+{
+  "name": "Hệ Thống Đặt Lịch & Quản Trị",
+  "description": "Ứng dụng đặt lịch hẹn trực tuyến với giao diện cho khách hàng và bảng quản trị cho admin, tích hợp AI gợi ý nội dung.",
+  "requestFramePermissions": []
+}
